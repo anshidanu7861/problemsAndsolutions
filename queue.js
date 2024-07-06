@@ -1,3 +1,5 @@
+// create a queue
+
 class queue {
   constructor() {
     this.items = [];

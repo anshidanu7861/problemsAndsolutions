@@ -1,3 +1,5 @@
+// sort an array for using mergesort algorithum
+
 function mergeSort(arr) {
   if (arr.length <= 1) return arr;
 

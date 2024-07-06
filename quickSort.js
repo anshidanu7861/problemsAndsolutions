@@ -1,3 +1,5 @@
+// sort an array for using quicksort algorithum
+
 function quickSort(arr) {
   if (arr.length <= 1) return arr;
 

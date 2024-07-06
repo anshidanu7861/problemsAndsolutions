@@ -1,3 +1,8 @@
+// find last word length
+
+// exmaple : "hello world"
+// output : word: "world" length: 5
+
 const lengthOfLastWord = function (str) {
   str = str.trim();
 

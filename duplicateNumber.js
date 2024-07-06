@@ -1,3 +1,5 @@
+// find duplicate numbers
+
 let arr = [3, 2, 1, 0, 4, 3, 9, 1, 0];
 
 function findDuplicate(arr) {

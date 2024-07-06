@@ -1,3 +1,5 @@
+// find the second largest number an array
+
 let arr = [1, 2, 8, 3, 0, 9, 19, 10];
 
 function findSecondLargestNumber(arr) {

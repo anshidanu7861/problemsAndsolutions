@@ -1,3 +1,5 @@
+// find the largest number an array
+
 let arr = [1, 5, 3, 7, 6, 8, 4, 9];
 
 function LargeNumber(arr) {

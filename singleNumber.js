@@ -1,3 +1,5 @@
+// find unique number an array
+
 const singleNumber = function (arr) {
   let newArr = [];
   for (let i = 1; i <= arr.length; i++) {

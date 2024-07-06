@@ -1,3 +1,8 @@
+// create stack and find vowels for given string
+
+// input: "anshid"
+// output: ["*", "n", "s", "h", "*", "d"]
+
 class stack {
   constructor() {
     this.items = [];

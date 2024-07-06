@@ -1,3 +1,5 @@
+// sort an array use the insertion sort algorithum
+
 function insertionSort(arr) {
   for (let i = 0; i < arr.length; i++) {
     let curr = arr[i];

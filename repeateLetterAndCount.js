@@ -1,3 +1,5 @@
+// find repeate letter and count
+
 function test(str) {
   let result = "";
 

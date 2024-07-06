@@ -1,3 +1,5 @@
+// create a linkedlist and insert last and first nodes
+
 class Node {
   constructor(data) {
     this.data = data;

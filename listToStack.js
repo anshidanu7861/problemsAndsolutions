@@ -1,3 +1,5 @@
+// create a stack for using linkedlist
+
 class Node {
   constructor(data) {
     this.data = data;

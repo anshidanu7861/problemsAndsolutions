@@ -1,9 +1,16 @@
+// revers numbers
+
+// case 1
+// input : 123
+// output : 321
+
+// case 2
+// input : -123
+// output : -321
+
 var reverse = function (x) {
   const INT_MIN = -(2 ** 31);
   const INT_MAX = 2 ** 31 - 1;
-
-  console.log(INT_MAX, "show int max");
-  console.log(INT_MIN, "show int min");
 
   let reversed = 0;
   while (x !== 0) {

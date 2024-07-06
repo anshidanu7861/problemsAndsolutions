@@ -1,3 +1,5 @@
+// find the second smallest number an array
+
 let arr = [9, 3, 1, 0, 4, 5];
 
 function FindSecondSmallestNumber(arr) {

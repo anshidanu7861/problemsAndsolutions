@@ -1,3 +1,5 @@
+// find the valid pharathesis
+
 function isValid(s) {
   let stack = [];
 

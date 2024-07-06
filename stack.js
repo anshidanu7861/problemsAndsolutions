@@ -1,3 +1,5 @@
+// create stack and given element and remove elements
+
 class stack {
   constructor() {
     this.items = [];
